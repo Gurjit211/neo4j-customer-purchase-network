@@ -2,8 +2,6 @@
 
 This project is a graph database assignment for the Big Data 2 (ITE 5424) course. It models customers, food items, and their relationships using Neo4j and Cypher. The primary focus is on analyzing customer purchase patterns and product relationships using graph-based queries.
 
-## Author
-
 - **Name:** Gurjit Singh  
 - **Student ID:** N01634963  
 - **Course:** Big Data 2 (ITE 5424)
